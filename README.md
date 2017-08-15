@@ -8,7 +8,7 @@ Machine Learning, which consists of areas of Deep Learning and Deep Neural Netwo
 <br />
 This course is aimed at graduate students, researchers, IT professionals and industrial engineers who already possess basic knowledge in Python programming and machine learning (and possibly, but not necessarily of deep learning) – who wish to learn more about this rapidly growing field of research and its application in the commercial world.
 <br />
-
+<br />
 **Key Takeaways**
 
 - Fundamental high-level knowledge of Deep Learning
