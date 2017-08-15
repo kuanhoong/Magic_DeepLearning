@@ -7,8 +7,8 @@ URL: https://events.bizzabo.com/205497<br />
 Machine Learning, which consists of areas of Deep Learning and Deep Neural Networks, are methods that learn to represent data in multiple layers of increasing abstraction. The interest in the technology is growing and this has dramatically improved technological applications in areas such as speech recognition, object recognition, object detection, and other tasks that only humans can excel in.
 <br />
 This course is aimed at graduate students, researchers, IT professionals and industrial engineers who already possess basic knowledge in Python programming and machine learning (and possibly, but not necessarily of deep learning) – who wish to learn more about this rapidly growing field of research and its application in the commercial world.
-<br />
-<br />
+
+
 **Key Takeaways**
 
 - Fundamental high-level knowledge of Deep Learning
